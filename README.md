@@ -56,8 +56,8 @@ A Python script, `train_classifier.py`, a machine learning pipeline that:
 
 ### VISUALIZATION:
 
-![DisasterResponseProject_analyze-text](figures\DisasterResponseProject_analyze-text.PNG)
+![DisasterResponseProject_analyze-text](\figures\DisasterResponseProject_analyze-text.PNG)
 
 
 
-![DisasterResponseProject_genre-distribution](figures\DisasterResponseProject_genre-distribution.PNG)
+![DisasterResponseProject_genre-distribution](\figures\DisasterResponseProject_genre-distribution.PNG)
