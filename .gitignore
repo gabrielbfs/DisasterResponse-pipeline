@@ -1,0 +1,2 @@
+# exclude source files from source control by default
+/models/classifier.pkl
